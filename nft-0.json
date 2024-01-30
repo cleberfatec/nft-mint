@@ -1,0 +1,14 @@
+{
+  "description": "Skydive do helicóptero", 
+  "external_url": "https://www.skyradical.com.br/", 
+  "image": "https://unsplash.com/pt-br/fotografias/homem-em-jaqueta-preta-e-jeans-azul-cavalgando-no-balanco-preto-e-amarelo-durante-o-dia-Sgey0UZt6HY", 
+  "name": "freefly",
+  "attributes": [{
+      "trait_type": "SitDown", 
+      "value": "Azul"
+    }, 
+    {
+      "trait_type": "HeadUp", 
+      "value": "Amarelo"
+    }]
+}

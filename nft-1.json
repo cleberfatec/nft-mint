@@ -1,0 +1,14 @@
+{
+  "description": "Freefly nos céus do mundo", 
+  "external_url": "https://www.skyradical.com.br/", 
+  "image": "https://unsplash.com/pt-br/fotografias/2-homens-em-camisa-azul-e-amarela-camisa-e-calcoes-amarelos-correndo-em-campo-durante-o-dia-YcWAOqFv-Ys", 
+  "name": "freefly",
+  "attributes": [{
+      "trait_type": "SitDown", 
+      "value": "Azul"
+    }, 
+    {
+      "trait_type": "HeadUp", 
+      "value": "Amarelo"
+    }]
+}
